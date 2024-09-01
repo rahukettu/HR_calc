@@ -22,4 +22,4 @@ A small calculator made for mobile use to determine heart rate limits based on a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/heart-rate-limit-calculator.git
+   git clone https://github.com/rahukettu/HR_calc.git
